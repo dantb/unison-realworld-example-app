@@ -1,9 +1,10 @@
 # ![RealWorld Example App](logo.png)
 
-
 > ### Work in progress [Unison](https://www.unison-lang.org/) implementation of the [RealWorld](https://github.com/gothinkster/realworld) backend application. This is a REST web application which should eventually adhere to the [endpoint specification](https://realworld-docs.netlify.app/docs/specs/backend-specs/endpoints).
 
 <hr>
+
+🚧 🚧 WIP - temporarily on hold due to other commitments 🚧 🚧 
 
 # Getting started
 
